@@ -6,3 +6,4 @@
 
 ## <p align="center">My Socials</p> 
 <a href="https://www.roblox.com/users/2763972604/profile"><img src="https://img.shields.io/badge/Roblox-000?logo=roblox&logoColor=fff&style=for-the-badge" alt="Roblox"></a>
+<a href="https://steamcommunity.com/id/king_cube"><img src="https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=for-the-badge" alt="Roblox"></a>
