@@ -5,4 +5,4 @@
 </p>
 
 ## <p align="center">My Socials</p> 
-<a href="https://www.roblox.com/home"><img src="https://img.shields.io/badge/Roblox-000?logo=roblox&logoColor=fff&style=for-the-badge" alt="Roblox"></a>
+<a href="https://www.roblox.com/users/2763972604/profile"><img src="https://img.shields.io/badge/Roblox-000?logo=roblox&logoColor=fff&style=for-the-badge" alt="Roblox"></a>
