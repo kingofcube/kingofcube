@@ -1,6 +1,6 @@
 ## Heyo!
 
-I'm king_cube. Some random silly fella who writes bad css userstyles
+I'm king_cube. Some random silly fella who writes bad css userstyles \
 Port maintainer for [Catppuccin](https://github.com/catppuccin)
 
 ## I write in</p> 
