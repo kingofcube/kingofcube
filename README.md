@@ -1,7 +1,7 @@
 ## Heyo!
 
 I'm king_cube. Some random silly fella who writes bad css userstyles \
-Port maintainer for [Catppuccin](https://github.com/catppuccin)
+Maintainer for [Catppuccin](https://github.com/catppuccin)
 
 ## I write in</p> 
 <p align="center">
