@@ -4,4 +4,4 @@ As Microsoft and their products become more and more garbage and privacy-invasiv
 
 [![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
 
-I believe in internet freedom, open source projects will always be my passion.
+Open source projects will always be my passion.
