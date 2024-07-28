@@ -1,17 +1,7 @@
-## Heyo!
+As Microsoft and their products become more and more garbage and privacy-invasive, I decided to move to Codeberg. All future repositories will be on my Codeberg profile. Please visit my profile at [https://codeberg.org/ZunneCode](https://codeberg.org/ZunneCode) if you want to see my future projects and contribute with me, i will only use this account when im contributing a project that is only on Github, or open an issue on a Github Repository. Bye.
 
-I'm king_cube, some random silly fella who writes poorly written css userstyles!
-Currently Learning Lua.
+[#GiveUpGithub](https://sfconservancy.org/GiveUpGitHub)
 
-## I write in</p> 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
-</p>
+[![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
 
-
-## Contact me on
-<a href="mailto:kcube6830@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=fff&link=kcube6830%40gmail.com" alt="Gmail"></a>
-<a href="https://discord.com/users/989197238687387709"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="Discord"></a>
-
+I believe in internet freedom, open source projects will always be my passion.
